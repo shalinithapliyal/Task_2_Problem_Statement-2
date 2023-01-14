@@ -10,7 +10,7 @@ As a data analysis intern, you have to analyze sports data for a client. You are
 
 ### Code
 
-[codes_sql.sql](https://github.com/shalinithapliyal/Task_2_Problem_Statement-2/codes_sql.sql/blob/master/codes_sql.sql)
+[codes_sql.sql](https://github.com/shalinithapliyal/Task_2_Problem_Statement-2/codes_sql.sql)
 
 
 
